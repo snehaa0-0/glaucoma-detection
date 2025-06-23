@@ -1,0 +1,14 @@
+Final Test Evaluation Metrics
+
+Cup Dice Mean: 0.7631
+Cup Dice Std: 0.1414
+Disc Dice Mean: 0.8684
+Disc Dice Std: 0.0773
+Cup Iou Mean: 0.6360
+Cup Iou Std: 0.1685
+Disc Iou Mean: 0.7744
+Disc Iou Std: 0.1033
+Avg Dice Mean: 0.8157
+Avg Dice Std: 0.0879
+Avg Iou Mean: 0.7052
+Avg Iou Std: 0.1066
