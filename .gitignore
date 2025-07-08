@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+*.env
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python egg and wheels
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Data outputs and results
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Project-specific
+optic_disc_segmentation/models/
+optic_disc_segmentation/results/
+optic_disc_segmentation/plots/
+optic_disc_segmentation/__pycache__/
+ORIGA/__pycache__/
+ACRIMA/__pycache__/
+Fundus_Train_Val_Data/__pycache__/
+share/
+glaucoma.csv

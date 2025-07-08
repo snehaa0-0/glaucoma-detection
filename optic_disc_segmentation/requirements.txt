@@ -1,0 +1,27 @@
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24.0
+opencv-python>=4.7.0.72
+pillow>=10.0.0
+
+# Model training & metrics
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
+
+# Image preprocessing & segmentation utilities
+scikit-image>=0.21.0
+
+# Data Augmentation (optional, but highly recommended)
+albumentations>=1.3.1
+
+# Grad-CAM for visual explanations
+grad-cam>=1.4.6
+
+# Web framework
+flask>=2.2.0
+
+# Optional visualization & analysis tools
+# seaborn>=0.12.2
+# pandas>=2.0.0
