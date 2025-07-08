@@ -1,0 +1,50 @@
+K-Fold Cross-Validation Results for Multi-class Optic Disc and Cup Segmentation
+Number of folds: 5
+
+Fold 1:
+  Cup Dice: 0.7615 ± 0.1679
+  Disc Dice: 0.8631 ± 0.0992
+  Cup IoU: 0.6407 ± 0.1935
+  Disc IoU: 0.7697 ± 0.1223
+  Average Dice: 0.8123 ± 0.1073
+  Average IoU: 0.7052 ± 0.1268
+
+Fold 2:
+  Cup Dice: 0.7172 ± 0.2327
+  Disc Dice: 0.8606 ± 0.0951
+  Cup IoU: 0.6014 ± 0.2371
+  Disc IoU: 0.7653 ± 0.1207
+  Average Dice: 0.7889 ± 0.1312
+  Average IoU: 0.6833 ± 0.1419
+
+Fold 3:
+  Cup Dice: 0.7186 ± 0.2220
+  Disc Dice: 0.8240 ± 0.1100
+  Cup IoU: 0.5991 ± 0.2240
+  Disc IoU: 0.7140 ± 0.1430
+  Average Dice: 0.7713 ± 0.1310
+  Average IoU: 0.6566 ± 0.1439
+
+Fold 4:
+  Cup Dice: 0.6771 ± 0.2608
+  Disc Dice: 0.8360 ± 0.1397
+  Cup IoU: 0.5610 ± 0.2528
+  Disc IoU: 0.7371 ± 0.1609
+  Average Dice: 0.7565 ± 0.1491
+  Average IoU: 0.6490 ± 0.1547
+
+Fold 5:
+  Cup Dice: 0.6691 ± 0.2591
+  Disc Dice: 0.8192 ± 0.1497
+  Cup IoU: 0.5506 ± 0.2495
+  Disc IoU: 0.7159 ± 0.1761
+  Average Dice: 0.7442 ± 0.1558
+  Average IoU: 0.6332 ± 0.1580
+
+Overall Results (Average across folds):
+  Cup Dice: 0.7087 ± 0.2285
+  Disc Dice: 0.8406 ± 0.1187
+  Cup IoU: 0.5905 ± 0.2314
+  Disc IoU: 0.7404 ± 0.1446
+  Average Dice: 0.7746 ± 0.1349
+  Average IoU: 0.6655 ± 0.1451

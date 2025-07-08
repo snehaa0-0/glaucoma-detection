@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.pdb
+*.pyc
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
@@ -18,6 +19,9 @@ env.bak/
 
 # VSCode settings
 .vscode/
+
+# Python Version
+.python-version
 
 # MacOS
 .DS_Store

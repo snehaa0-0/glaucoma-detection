@@ -1,3 +1,4 @@
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -469,3 +470,4 @@ if __name__ == "__main__":
         print(f"Predicted CDR: {features['cdr_area_ratio']:.4f}")
         print(f"Expert CDR: {test_expert_cdrs[0]:.4f}")
         print(f"Actual label: {'Glaucoma' if test_labels[0] == 1 else 'Normal'}")
+
